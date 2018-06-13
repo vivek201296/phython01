@@ -1,0 +1,3 @@
+Comand to list all the builtins
+
+dir(__builtins__)
