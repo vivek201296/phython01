@@ -1,0 +1,2 @@
+Shebang for bash        #!/usr/bin/env bash
+Shebang for pearl        #!/usr/local/bin/fooperl.
